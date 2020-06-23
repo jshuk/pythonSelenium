@@ -1,0 +1,19 @@
+
+2020-06-23 15:48:25,207: DEBUG :Framework.common.Baseclass : Debug logging 
+2020-06-23 15:48:25,776: INFO :Framework.common.Baseclass : Refreshing the browser
+2020-06-23 15:48:26,185: DEBUG :Framework.common.Baseclass : Debug logging 
+2020-06-23 15:48:26,661: INFO :Framework.common.Baseclass : Refreshing the browser
+2020-06-23 15:50:22,301: DEBUG :test_form_submit : Debug logging 
+2020-06-23 15:50:22,831: INFO :test_form_submit : Refreshing the browser
+2020-06-23 15:50:23,194: DEBUG :test_form_submit : Debug logging 
+2020-06-23 15:50:23,677: INFO :test_form_submit : Refreshing the browser
+2020-06-23 16:13:20,025: DEBUG :test_form_submit : Debug logging 
+2020-06-23 16:13:20,575: INFO :test_form_submit : Refreshing the browser
+2020-06-23 16:13:20,950: DEBUG :test_form_submit : Debug logging 
+2020-06-23 16:13:21,440: INFO :test_form_submit : Refreshing the browser
+2020-06-23 16:19:44,220: DEBUG :test_form_submit : Debug logging 
+2020-06-23 16:19:44,899: DEBUG :test_form_submit : Debug logging 
+2020-06-23 16:19:58,334: DEBUG :test_form_submit : Debug logging 
+2020-06-23 16:19:59,078: DEBUG :test_form_submit : Debug logging 
+2020-06-23 16:21:55,403: DEBUG :test_form_submit : Debug logging 
+2020-06-23 16:21:56,082: DEBUG :test_form_submit : Debug logging 

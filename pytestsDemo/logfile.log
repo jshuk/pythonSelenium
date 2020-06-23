@@ -1,0 +1,6 @@
+2020-06-22 15:48:39,769: WARNING :pytestsDemo.BaseClass : This is warning
+2020-06-22 15:48:39,769: WARNING :pytestsDemo.BaseClass : This is warning
+2020-06-22 15:48:57,776: INFO :pytestsDemo.BaseClass : This is Debug
+2020-06-22 15:48:57,776: INFO :pytestsDemo.BaseClass : This is Debug
+2020-06-22 15:48:57,777: WARNING :pytestsDemo.BaseClass : This is warning
+2020-06-22 15:48:57,777: WARNING :pytestsDemo.BaseClass : This is warning

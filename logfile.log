@@ -1,0 +1,8 @@
+2020-06-22 17:15:33,077: INFO :pytestsDemo.BaseClass : This is Debug
+2020-06-22 17:15:33,077: INFO :pytestsDemo.BaseClass : This is Debug
+2020-06-22 17:15:33,077: WARNING :pytestsDemo.BaseClass : This is warning
+2020-06-22 17:15:33,077: WARNING :pytestsDemo.BaseClass : This is warning
+2020-06-22 17:15:33,101: INFO :pytestsDemo.test_logging : Information statement
+2020-06-22 17:15:33,101: WARNING :pytestsDemo.test_logging : Warning Statement
+2020-06-22 17:15:33,101: ERROR :pytestsDemo.test_logging : Error statement
+2020-06-22 17:15:33,101: CRITICAL :pytestsDemo.test_logging : Critical statment
